@@ -1,7 +1,23 @@
-body{
-    background-color: antiquewhite;
+@import url("https://fonts.googleapis.com/css2?family=Arimo&family=Josefin+Sans:wght@200;400&display=swap");
+body {
+  background-color: rgb(10, 10, 10);
+  padding: 4%;
 }
 
-h1{
-    text-align: center;
+h1 {
+  color: antiquewhite;
+  font-family: 'Josefin Sans', sans-serif;
+}
+p {
+  color: antiquewhite;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+#vlad:active {
+  transform: scale(1.2);
 }
